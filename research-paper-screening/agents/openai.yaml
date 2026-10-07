@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究論文篩選"
+  short_description: "查核期刊可信度，並用 CRAAP 評估論文是否適合納入研究"
+  default_prompt: "請用 $research-paper-screening 評估這篇論文是否適合納入我的研究。"
